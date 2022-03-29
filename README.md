@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yuanhaomichael
-- 👀 I’m interested in content, eCommerce, AR, Computer Vision, Blockchain, Brain Computer Interfaces
-- 🌱 I’m currently learning computer vision and brain computer interfaces
+- 🌱 I’m currently learning blockchain and AI. Looking for an engineering role!
 
 <!---
 yuanhaomichael/yuanhaomichael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
